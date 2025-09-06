@@ -1,18 +1,16 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Shakti prasad swain 👋
 
 I'm a passionate software developer with a focus on [Your Specialization, e.g., Web Development, Data Science, AI]. I love solving complex problems, building scalable applications, and always eager to learn new technologies.
 
 ## 🚀 About Me
-- 💼 Currently working at [Your Company Name]
-- 🎓 Studied [Your Major] at [Your University]
-- 🌱 Currently learning [New Technology or Framework, e.g., React, Machine Learning]
-- 📝 I regularly write articles on [Your Blog, e.g., Medium](https://yourblog.com)
+- 🎓 Studing CSE AIML at CV Raman global university
+- 🌱 Currently learning Java, Machine Learning , Frontend , 
 - 💬 Ask me about [Your Expertise, e.g., Python, JavaScript, Cloud Computing]
 - 📫 How to reach me: [Your Email or LinkedIn](mailto:youremail@example.com)
 - ⚡ Fun fact: [Something interesting about you]
 
 ## 🛠️ My Skills
-- **Languages:** Python, JavaScript, Java, C++
+- **Languages:** Machine Learning, HTML/CSS/JS, Java, C, Power Bi,
 - **Frameworks:** React, Django, Flask, Spring Boot
 - **Tools:** Git, Docker, Kubernetes, Jenkins
 - **Databases:** MySQL, PostgreSQL, MongoDB
